@@ -1,0 +1,42 @@
+  {
+  "users": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "email": "maria@example.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Anna",
+      "email": "anna@example.com",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "Ivan",
+      "email": "ivan@example.com",
+      "role": "user"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Learning REST API",
+      "userId": 1,
+      "tags": ["rest", "api"]
+    },
+    {
+      "id": 2,
+      "title": "Working with JSON",
+      "userId": 2,
+      "tags": ["json", "study"]
+    },
+    {
+      "id": 3,
+      "title": "Postman Testing",
+      "userId": 2,
+      "tags": ["postman", "rest"]
+    }
+  ]
+}
